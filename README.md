@@ -61,7 +61,7 @@ Currently, I am an undergraduate Software Engineering student, balancing enterpr
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maleesha-pramud&theme=tokyonight" alt="GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maleesha-pramud&theme=tokyonight" alt="GitHub Stats" />
   
   <br /><br />
 
