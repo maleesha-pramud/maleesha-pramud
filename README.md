@@ -61,15 +61,15 @@ Currently, I am an undergraduate Software Engineering student, balancing enterpr
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleesha-pramud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=maleesha-pramud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=maleesha-pramud&theme=tokyonight&hide_border=true&background=0D1117&ring=005A9C&fire=E0234E&currStreakLabel=005A9C" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=maleesha-pramud&theme=tokyonight&hide_border=true&background=0D1117&stroke=005A9C&ring=005A9C&fire=E0234E" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-pramud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=maleesha-pramud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br />
