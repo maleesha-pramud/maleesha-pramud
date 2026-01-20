@@ -59,20 +59,27 @@ Currently, I am an undergraduate Software Engineering student, balancing enterpr
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+### 🛡️ DevOps & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-24292E?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_WSL-005A9C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+### 📐 Software Engineering Foundations
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-005A9C?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Design_Patterns-24292E?style=for-the-badge&logo=databricks&logoColor=white" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/REST_API-005A9C?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+</p>
+
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-005A9C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/JavaScript-24292E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
-
-### 🛡️ DevOps & Security
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-24292E?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux_WSL-005A9C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Puppeteer-24292E?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
 </p>
 
 ---
