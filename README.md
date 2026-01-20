@@ -65,7 +65,7 @@ Currently, I am an undergraduate Software Engineering student, balancing enterpr
   
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=maleesha-pramud&theme=tokyonight&hide_border=true&background=0D1117&stroke=005A9C&ring=005A9C&fire=E0234E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=maleesha-pramud&theme=tokyonight&hide_border=true&background=0D1117&stroke=005A9C&ring=005A9C&fire=E0234E" alt="GitHub Streak" />
 
   <br /><br />
 
