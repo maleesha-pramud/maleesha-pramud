@@ -25,7 +25,7 @@
 
 I am a **Software Engineer** and the Founder of **WigerLabs**, a software startup based in **Sri Lanka** dedicated to building business solutions.
 
-Currently, I am an undergraduate Software Engineering student, balancing enterprise development with advanced studies in **Cyber Security** and **DevOps**. My focus is on building scalable, secure systems that bridge the gap between complex backend architecture and user-friendly interfaces.
+Currently, I am an undergraduate Software Engineering student, balancing enterprise development with advanced studies in **Cyber Security** and **DevOps**. My focus is on building scalable, secure sys[...]\n
 
 * 🔭 **Current Project:** Building a centralized project management admin panel for WigerLabs and POS systems for local finance sectors.
 * 🌱 **Learning:** Advanced **NestJS** architecture, **SOC Operations**, and **Penetration Testing**.
@@ -91,7 +91,7 @@ Currently, I am an undergraduate Software Engineering student, balancing enterpr
   
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=maleesha-pramud&theme=tokyonight&hide_border=true&background=0D1117&stroke=005A9C&ring=005A9C&fire=E0234E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=maleesha-pramud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br /><br />
 
