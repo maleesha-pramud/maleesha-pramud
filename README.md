@@ -36,25 +36,44 @@ Currently, I am an undergraduate Software Engineering student, balancing enterpr
 
 ## 🛠 Tech Stack & Tools
 
-### Languages
-![Java](https://img.shields.io/badge/Java-005A9C?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-005A9C?style=for-the-badge&logo=typescript&logoColor=white)
+### 🌐 Frontend & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/React-24292E?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-005A9C?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+</p>
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-24292E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-005A9C?style=for-the-badge&logo=react&logoColor=white)
+### ⚙️ Backend & Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-24292E?style=for-the-badge&logo=node.js&logoColor=339933" alt="Nodejs" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Jakarta_EE-005A9C?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Jakarta EE" />
+</p>
 
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-24292E?style=for-the-badge&logo=node.js&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-005A9C?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+### 🗄️ Database & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-### DevOps, Security & Automation
-![Docker](https://img.shields.io/badge/Docker-24292E?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux (WSL)](https://img.shields.io/badge/Linux_WSL-005A9C?style=for-the-badge&logo=linux&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-24292E?style=for-the-badge&logo=puppeteer&logoColor=white)
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-005A9C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-24292E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
+
+### 🛡️ DevOps & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-24292E?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_WSL-005A9C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Puppeteer-24292E?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+</p>
 
 ---
 
