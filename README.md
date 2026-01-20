@@ -8,13 +8,13 @@
     <b>Startup Owner (WigerLabs) | React & NestJS Developer | Security Enthusiast</b>
   </p>
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/maleeshapramud">
     <img src="https://img.shields.io/badge/LinkedIn-005A9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:maleeshapramud9@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-24292E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://wigerlabs.com/">
     <img src="https://img.shields.io/badge/Portfolio-005A9C?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
 </div>
