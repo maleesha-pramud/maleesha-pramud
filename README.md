@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./wigerlabs_banner_for_github.svg" alt="WigerLabs Banner" width="100%" />
+  <img src="./wigerlabs_banner_for_github.svg" alt="WigerLabs Banner" width="30%" />
 </div>
 
 <div align="center">
